@@ -16,16 +16,16 @@
 
 ## Thought Starter - CloudyCam
 
-* [CloudyCam - Introduction](Introduction-CloudyCam.md)
-* [Installing the Prerequisites](installing-the-prerequisites.md)
-* [Creating and Testing a React App](getting-started.md)
-* [Creating a Webcam class](creating-a-webcam-class.md)
-* [Creating a Notifier Component](creating-a-notifier-component.md)
-* [Using the Notifier Component](using-the-notifier-component.md)
-* [Creating and Styling a ClCamera Component](creating-a-clcamera-component.md)
-* [Setting Up a Cloudinary Account](setting-up-a-cloudinary-account.md)
-* [Testing Your App](testing-and-auditing-pwa-application.md)
-* [Accessing Uploaded Images](accessing-upload-images.md)
-* [Creating a Production Build and Auditing Your PWA](creating-a-production-build-and-auditing-pwa.md)
-* [Moving On](moving-on.md)
+* [CloudyCam - Introduction](thought-starter-cloudycam/Introduction-CloudyCam.md)
+* [Installing the Prerequisites](thought-starter-cloudycam/installing-the-prerequisites.md)
+* [Creating and Testing a React App](thought-starter-cloudycam/getting-started.md)
+* [Creating a Webcam class](thought-starter-cloudycam/creating-a-webcam-class.md)
+* [Creating a Notifier Component](thought-starter-cloudycam/creating-a-notifier-component.md)
+* [Using the Notifier Component](thought-starter-cloudycam/using-the-notifier-component.md)
+* [Creating and Styling a ClCamera Component](thought-starter-cloudycam/creating-a-clcamera-component.md)
+* [Setting Up a Cloudinary Account](thought-starter-cloudycam/setting-up-a-cloudinary-account.md)
+* [Testing Your App](thought-starter-cloudycam/testing-and-auditing-pwa-application.md)
+* [Accessing Uploaded Images](thought-starter-cloudycamaccessing-upload-images.md)
+* [Creating a Production Build and Auditing Your PWA](thought-starter-cloudycam/creating-a-production-build-and-auditing-pwa.md)
+* [Moving On](thought-starter-cloudycam/moving-on-2.md)
 
