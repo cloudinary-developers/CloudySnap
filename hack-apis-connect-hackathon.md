@@ -26,3 +26,11 @@ Each participant is free to build awesome products on provided APIs and services
 
 15
 
+###                                                              **Saturday 1-12**
+
+**14:00**
+
+| Participants should have finalized their final products slides and submitted them on hackathon.io for judging | **Code Freeze** |
+| :--- | :--- |
+
+
