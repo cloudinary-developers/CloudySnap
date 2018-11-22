@@ -98,6 +98,5 @@ Here are the methods for capturing images:
     }
 ```
 
-The `_drawImage()` method takes the existing frame in `videoElement` when that function is called and displays the image on `canvasElement`. The `_drawImage()` method is then called in the `takeBlobPhoto()` and `takeBase64Photo()` methods to handle binary large object \(blob\) images or Base64 images, respectively.  
-
+The `_drawImage()` method takes the existing frame in `videoElement` when that function is called and displays the image on `canvasElement`. The `_drawImage()` method is then called in the `takeBlobPhoto()` and `takeBase64Photo()` methods to handle binary large object \(blob\) images or Base64 images, respectively.
 

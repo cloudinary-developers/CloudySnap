@@ -16,8 +16,6 @@ Afterwards, create a starter React project, which you will tweak as you proceed 
     npx create-react-app cloudy-cam-pwa
 ```
 
-
-
 ## Test the Sample React App
 
 To ensure that the project is in place, go to the app's directory and start the development server:
@@ -29,5 +27,5 @@ To ensure that the project is in place, go to the app's directory and start the 
 
 The above command starts a development server on `http://localhost:3000`. Navigating to that URL on your browser displays the React app:
 
-![Sample React App](.gitbook/assets/react-app.png)
+![Sample React App](https://github.com/cloudinary-developers/HackAPIs-HackathonGuide/tree/bbc5dae70724b2eeae77f8a25c06a051e5248f73/thought-starter-cloudycam/.gitbook/assets/react-app.png)
 

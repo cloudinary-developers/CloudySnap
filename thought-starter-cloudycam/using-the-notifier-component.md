@@ -79,7 +79,7 @@ To view your app, first run this command on your development server:
 
 Afterwards, go to `http://localhost:3000` on your browser to display the app. Toggle your Internet connection and you will see one of the two versions on display, depending on whether you are online or offline. See below.
 
-![Notifier component when the app is online](.gitbook/assets/online-cloudyshot.png)
+![Notifier component when the app is online](https://github.com/cloudinary-developers/HackAPIs-HackathonGuide/tree/bbc5dae70724b2eeae77f8a25c06a051e5248f73/thought-starter-cloudycam/.gitbook/assets/online-cloudyshot.png)
 
-![Notifier component when the app is offline](.gitbook/assets/offline.png)
+![Notifier component when the app is offline](https://github.com/cloudinary-developers/HackAPIs-HackathonGuide/tree/bbc5dae70724b2eeae77f8a25c06a051e5248f73/thought-starter-cloudycam/.gitbook/assets/offline.png)
 

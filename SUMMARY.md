@@ -13,10 +13,9 @@
 * [Accessing Uploaded Videos](thought-starter-cloudysnap/accessing-uploaded-videos.md)
 * [Moving On](thought-starter-cloudysnap/moving-on.md)
 
-
 ## Thought Starter - CloudyCam
 
-* [CloudyCam - Introduction](thought-starter-cloudycam/Introduction-CloudyCam.md)
+* [CloudyCam - Introduction](thought-starter-cloudycam/introduction-cloudycam.md)
 * [Installing the Prerequisites](thought-starter-cloudycam/installing-the-prerequisites.md)
 * [Creating and Testing a React App](thought-starter-cloudycam/getting-started.md)
 * [Creating a Webcam class](thought-starter-cloudycam/creating-a-webcam-class.md)
@@ -25,7 +24,7 @@
 * [Creating and Styling a ClCamera Component](thought-starter-cloudycam/creating-a-clcamera-component.md)
 * [Setting Up a Cloudinary Account](thought-starter-cloudycam/setting-up-a-cloudinary-account.md)
 * [Testing Your App](thought-starter-cloudycam/testing-and-auditing-pwa-application.md)
-* [Accessing Uploaded Images](thought-starter-cloudycamaccessing-upload-images.md)
+* [Accessing Uploaded Images](thought-starter-cloudycam/accessing-uploaded-images.md)
 * [Creating a Production Build and Auditing Your PWA](thought-starter-cloudycam/creating-a-production-build-and-auditing-pwa.md)
 * [Moving On](thought-starter-cloudycam/moving-on-2.md)
 

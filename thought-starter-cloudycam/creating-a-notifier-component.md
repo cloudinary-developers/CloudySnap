@@ -74,5 +74,3 @@ Edit your `Notifier/Notifier.css` file to read like this:
     }
 ```
 
-
-
