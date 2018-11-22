@@ -16,7 +16,7 @@ Each participant is free to build awesome products on provided APIs and services
 
 ## **Event Flow**
 
-###                                                              **Friday 30-11:** 
+###                                                              **Friday 30-11** 
 
 **14:00 - 15:00**
 
@@ -24,7 +24,7 @@ Each participant is free to build awesome products on provided APIs and services
 | :--- | :---: |
 
 
-15
+**15:00**
 
 ###                                                              **Saturday 1-12**
 
@@ -32,5 +32,11 @@ Each participant is free to build awesome products on provided APIs and services
 
 | Participants should have finalized their final products slides and submitted them on hackathon.io for judging | **Code Freeze** |
 | :--- | :--- |
+
+
+| **Team formation, ideation and product building** | Hackathon Begins |
+| :--- | :---: |
+
+
 
 
