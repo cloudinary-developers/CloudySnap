@@ -27,5 +27,5 @@ To ensure that the project is in place, go to the app's directory and start the 
 
 The above command starts a development server on `http://localhost:3000`. Navigating to that URL on your browser displays the React app:
 
-![Sample React App](https://github.com/cloudinary-developers/HackAPIs-HackathonGuide/tree/bbc5dae70724b2eeae77f8a25c06a051e5248f73/thought-starter-cloudycam/.gitbook/assets/react-app.png)
+![](../.gitbook/assets/sample-react-image.png)
 

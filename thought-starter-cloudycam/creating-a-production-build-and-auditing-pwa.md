@@ -48,9 +48,9 @@ Afterwards, Yarn creates a simple static server on `http://localhost:5000`. Go t
 
 A panel on **Google Chrome’s Developer Console**, powered by [Lighthouse](https://developers.google.com/web/tools/lighthouse/), enables you to validate the quality of your web pages. Click the **Audits** tab of the **Developer Console** and run an audit on the production build. The results are then displayed, as in this example:
 
-![Results of a Lighthouse PWA Audit \(1\)](https://github.com/cloudinary-developers/HackAPIs-HackathonGuide/tree/bbc5dae70724b2eeae77f8a25c06a051e5248f73/thought-starter-cloudycam/.gitbook/assets/cl-13.png)
+![Results of a Lighthouse PWA Audit \(1\)](../.gitbook/assets/light-1.png)
 
-![Results of a Lighthouse PWA Audit \(2\)](https://github.com/cloudinary-developers/HackAPIs-HackathonGuide/tree/bbc5dae70724b2eeae77f8a25c06a051e5248f73/thought-starter-cloudycam/.gitbook/assets/cl-14.png)
+![Results of a Lighthouse PWA Audit \(2\)](../.gitbook/assets/light-2.png)
 
 Here, CloudyCam is shown as a 100-percent PWA even though the score reads 92. Not to worry: The remaining 8 percent will be achieved once your production server is running with HTTPS for all the app traffic.
 

@@ -1,6 +1,6 @@
 # Setting Up a Cloudinary Account
 
-![The Cloudinary Homepage](https://github.com/cloudinary-developers/HackAPIs-HackathonGuide/tree/bbc5dae70724b2eeae77f8a25c06a051e5248f73/thought-starter-cloudycam/.gitbook/assets/cl-1.png)
+![](../.gitbook/assets/cloudy-1.png)
 
 To handle image uploads in this app, leverage [Cloudinary](https://cloudinary.com/). First, [create an account](https://cloudinary.com/signup) there.
 
@@ -10,7 +10,7 @@ To handle image uploads in this app, leverage [Cloudinary](https://cloudinary.co
 
 Cloudinary then takes you to your **Dashboard** \(media console\), in which your cloud name is displayed under **Account Details** \(see the screenshot below\). Replace the `CLOUDINARY_CLOUD_NAME` variable in the `ClCamera` component in the previous code segments with that name.
 
-![Finding Your Cloudinary Cloud Name](https://github.com/cloudinary-developers/HackAPIs-HackathonGuide/tree/bbc5dae70724b2eeae77f8a25c06a051e5248f73/thought-starter-cloudycam/.gitbook/assets/cl-3.png)
+![](../.gitbook/assets/cloudy-3.png)
 
 ## **Create a Cloudinary Upload Preset**
 
@@ -18,15 +18,15 @@ Cloudinary Upload Presets enable you to set up the default behavior of your imag
 
 To create a preset, go to the [Upload Settings](https://cloudinary.com/console/settings/upload) screen and click the **Add upload preset** link:
 
-![Adding an Upload Preset](https://github.com/cloudinary-developers/HackAPIs-HackathonGuide/tree/bbc5dae70724b2eeae77f8a25c06a051e5248f73/thought-starter-cloudycam/.gitbook/assets/cl-4.png)
+![](../.gitbook/assets/cloudy-4.png)
 
 The **Add upload preset** screen is then displayed:
 
-![Adding an Upload Preset \(1\)](https://github.com/cloudinary-developers/HackAPIs-HackathonGuide/tree/bbc5dae70724b2eeae77f8a25c06a051e5248f73/thought-starter-cloudycam/.gitbook/assets/cl-5.png)
+![](../.gitbook/assets/cloudy-5.png)
 
 Type a name of your choice under **Preset name**, set **Mode** to **Unsigned**, and then specify the other details, as appropriate.
 
-![Adding an Upload Preset \(2\)](https://github.com/cloudinary-developers/HackAPIs-HackathonGuide/tree/bbc5dae70724b2eeae77f8a25c06a051e5248f73/thought-starter-cloudycam/.gitbook/assets/cl-6.png)
+![](../.gitbook/assets/cloudy-6.png)
 
 When the `ClCamera` component uploads an image from your app, Cloudinary returns a data element that contains the information relevant to the image. That way, if you set up an Upload Preset to perform such tasks as face detection, image-color analysis, and object detection, Cloudinary returns the results to you for use as you deem appropriate. By default, Cloudinary returns the URL of your uploaded image.
 
