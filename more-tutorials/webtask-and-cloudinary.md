@@ -2,7 +2,7 @@
 
 ## Build an online contest using Auth0 Webtask and Cloudinary
 
-We recently released a online [contest](https://codepen.io/cloudinary/full/LjqJEG/) to showcase our [Neural Artwork Style Transfer](neural-artwork.md) add-on feature of Cloudinary's APIs.
+We recently released a online [contest](https://codepen.io/cloudinary/full/LjqJEG/) to showcase our [Neural Artwork Style Transfer](https://github.com/cloudinary-developers/HackAPIs-HackathonGuide/tree/d0c7a1814838a1c4e3d60f4b3ecdc6e8cbc24231/more-tutorials/neural-artwork.md) add-on feature of Cloudinary's APIs.
 
 ![](https://github.com/cloudinary-developers/Hack-Midwest-Hackathon/tree/8ef149ada1b7750dd4e46bae94b47da4b35af8a5/.gitbook/assets/contest.png)
 
