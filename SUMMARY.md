@@ -1,5 +1,6 @@
 # Table of contents
 
+## Thought Starter - CloudySnap
 * [Building a Screen Recorder for the Web With Cloudinary in a Jiffy!](README.md)
 * [Putting in Place the Prerequisites](prerequisites.md)
 * [Building the Interface](creating-the-web-screen-recorder.md)
