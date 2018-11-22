@@ -9,13 +9,13 @@ mkdir cloudy-snap
 cd cloudy-snap
 ```
 
-2. Create an `index.html` file in`cloudy-snap` to house the code in the demo app. Type:
+1. Create an `index.html` file in`cloudy-snap` to house the code in the demo app. Type:
 
 ```bash
 touch index.html
 ```
 
-3. Edit the `index.html` file to read like this:
+1. Edit the `index.html` file to read like this:
 
 ```markup
 <!DOCTYPE html>
@@ -36,7 +36,7 @@ touch index.html
           flex-direction: column;
           align-items: center;
         }
-        
+
         #videoElement{
           width: 50%;
           padding: 30px;
@@ -57,11 +57,11 @@ touch index.html
 </html>
 ```
 
-4. Run the`index.html` file in Chrome.
+1. Run the`index.html` file in Chrome.
 
 Chrome then displays the interface for the demo app.
 
-![Interface for Demo App](.gitbook/assets/screenshot-2018-11-15-at-4.38.32-am.png)
+![Interface for Demo App](../.gitbook/assets/screenshot-2018-11-15-at-4.38.32-am.png)
 
 At this point, interacting with the interface results in no response from the recorder. The next section shows you how to add capabilities to the recorder and make it work.
 

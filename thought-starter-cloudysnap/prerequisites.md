@@ -13,11 +13,9 @@ Currently, some of the code in this tutorial requires a few experimental feature
 
 Chrome displays the **Experiments** page with the section **Experimental Web Platform features** under **Available**.
 
-![Navigating to Chrome&apos;s Experimental Web Platform Features](.gitbook/assets/screenshot-2018-11-14-at-2.36.32-am.png)
+![Navigating to Chrome&apos;s Experimental Web Platform Features](../.gitbook/assets/screenshot-2018-11-14-at-2.36.32-am.png)
 
 * Click the downward arrow in the **Disabled** button to choose **Enabled** and then click **RELAUNCH NOW**.
 
-![Enabling the Experimental Web Platform Features](.gitbook/assets/screenshot-2018-11-14-at-2.36.40-am.png)
-
-
+![Enabling the Experimental Web Platform Features](../.gitbook/assets/screenshot-2018-11-14-at-2.36.40-am.png)
 

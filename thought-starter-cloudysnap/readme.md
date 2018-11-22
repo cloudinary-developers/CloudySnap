@@ -4,7 +4,7 @@ description: >-
   minimal JavaScript.
 ---
 
-# CloudySnap - Introduction
+# Building a Screen Recorder for the Web With Cloudinary in a Jiffy!
 
 Have you ever wondered how Google Hangouts and other robust video-call web apps can not only access your screen, but also enable screen sharing during calls? Wonder no more. Just read on.
 
@@ -14,9 +14,9 @@ At the end of this tutorial, you'll have built a demo app that looks like this:
 
 > **Note**: This is where the demo GIFs reside.
 
-![Demo App \(1\)](.gitbook/assets/ezgif.com-video-to-gif-2.gif)
+![Demo App \(1\)](../.gitbook/assets/ezgif.com-video-to-gif-2.gif)
 
-![Demo App \(2\)](.gitbook/assets/screenshot-2018-11-15-at-5.37.21-am.png)
+![Demo App \(2\)](../.gitbook/assets/screenshot-2018-11-15-at-5.37.21-am.png)
 
-![Demo App \(3\)](.gitbook/assets/screenshot-2018-11-15-at-5.38.09-am.png)
+![Demo App \(3\)](../.gitbook/assets/screenshot-2018-11-15-at-5.38.09-am.png)
 
